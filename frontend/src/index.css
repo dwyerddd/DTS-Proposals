@@ -1,0 +1,4 @@
+/* Minimal reset. No visual design decisions here yet — see App.css. */
+body {
+  margin: 0;
+}
